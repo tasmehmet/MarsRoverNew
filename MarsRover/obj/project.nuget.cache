@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xtggzVHj5Ds6Ccvkce+CD0wucT3YxlU9dtxb+OK4k3/SpEhAGpLv6IPDTbn3zRfZnGpdbUggV6W1+/ApWJMsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehmet.tas\\source\\repos\\MarsRover\\MarsRover\\MarsRover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehmet.tas\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\mehmet.tas\\.nuget\\packages\\mediatr.simpleinjector\\8.0.2.2\\mediatr.simpleinjector.8.0.2.2.nupkg.sha512",
+    "C:\\Users\\mehmet.tas\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\mehmet.tas\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\mehmet.tas\\.nuget\\packages\\simpleinjector\\5.0.3\\simpleinjector.5.0.3.nupkg.sha512",
+    "C:\\Users\\mehmet.tas\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\mehmet.tas\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
